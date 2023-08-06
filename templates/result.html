@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- Add Bootstrap CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+    /* Custom styles.css */
+:root {
+  --primary: #007bff; /* Your custom blue color */
+}
+
+    </style>
+</head>
+<body>
+    <center>
+    <table border="5" cellpadding="5">
+        <th>NAME</th>
+        <th>DATE</th>
+        <th>TIME</th>
+        <th>PLACE</th>
+        <th>CONTACT NO</th>
+        {% for result in data %}
+        <tr>
+            <td>{{result[0]}}</td>
+            <td>{{result[1]}}</td>
+            <td>{{result[2]}}</td>
+            <td>{{result[3]}}</td>
+            <td>{{result[4]}}</td>
+        </tr>
+        {% endfor %}
+    </table>
+    
+    <a href="/">Go back to Home page</a>
+</center>
+</body>
+</html>
