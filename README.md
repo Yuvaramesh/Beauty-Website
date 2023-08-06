@@ -19,7 +19,7 @@ Jinja 2 Template :
 Its a Expression {{ some exp }} and conditional statements {% condition %}
 
 
-We have used in the project
+We have used in this project
 
 Database:SqlAlchemy ==> Sqlite3
 
