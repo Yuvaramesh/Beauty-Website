@@ -44,4 +44,4 @@ It looks like you've shared HTML code for a webpage, specifically a Django templ
 8. **Optimization:**
    - Optimize your images for web to improve page loading speed.
 
-Remember to integrate this HTML template with your Django project, define the necessary views and URL patterns, and handle data dynamically through Django's templating engine.
+**Remember to integrate this HTML template with your Django project, define the necessary views and URL patterns, and handle data dynamically through Django's templating engine.**
