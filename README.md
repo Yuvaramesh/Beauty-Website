@@ -3,29 +3,22 @@
 ## Flask:
 
 
-The Flask is the web framework to develop the web application using python language.
+**The Flask is the web framework to develop the web application using python language.
+The flask is working on the two things they are WSGI and Jinja 2 templates**
 
-
-The flask is working on the two things they are WSGI and Jinja 2 templates
-
-WSGI - Web Server Gateway Interface 
+**WSGI - Web Server Gateway Interface 
 =>GET
-=>POST
+=>POST**
 
-Jinja 2 Template :
+### Jinja 2 Template :
 
 Its a Expression {{ some exp }} and conditional statements {% condition %}
-
-
 We have used in this project
 
-Database:SqlAlchemy ==> Sqlite3
-
-SqlAlchemy class => sqlite3 db => Bootstrap => HTML 
+**Database:SqlAlchemy ==> Sqlite3
+SqlAlchemy class => sqlite3 db => Bootstrap => HTML**
 
 It looks like you've shared HTML code for a webpage, specifically a Django template. This template seems to define a webpage for a beauty-related service, possibly a salon or beauty studio, with sections for different beauty professionals like a Hair Stylist, Makeup Artist, and Henna Artist.
-
-Here are a few points and suggestions:
 
 1. **HTML Structure:**
    - Ensure that your HTML structure is correct. Every opening tag should have a corresponding closing tag.
@@ -51,4 +44,4 @@ Here are a few points and suggestions:
 8. **Optimization:**
    - Optimize your images for web to improve page loading speed.
 
-Remember to integrate this HTML template with your Django project, define the necessary views and URL patterns, and handle data dynamically through Django's templating engine. If you have specific questions or need assistance with a particular aspect, feel free to ask!
+Remember to integrate this HTML template with your Django project, define the necessary views and URL patterns, and handle data dynamically through Django's templating engine.
