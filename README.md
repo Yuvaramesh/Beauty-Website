@@ -15,9 +15,9 @@ The flask is working on the two things they are WSGI and Jinja 2 templates**
 Its a Expression {{ some exp }} and conditional statements {% condition %}
 We have used in this project
 
-## **Database:SqlAlchemy ==> Sqlite3**
-## **SqlAlchemy class => sqlite3**
-## **db => Bootstrap => HTML**
+i) **Database:SqlAlchemy ==> Sqlite3**
+ii) **SqlAlchemy class => sqlite3**
+iii)  **db => Bootstrap => HTML**
 
 It looks like you've shared HTML code for a webpage, specifically a Django template. This template seems to define a webpage for a beauty-related service, possibly a salon or beauty studio, with sections for different beauty professionals like a Hair Stylist, Makeup Artist, and Henna Artist.
 
