@@ -1,14 +1,14 @@
 ### Beauty Website using Flask Framework
 
-### Flask:
+## Flask:
 
 
 **The Flask is the web framework to develop the web application using python language.
 The flask is working on the two things they are WSGI and Jinja 2 templates**
 
-**WSGI - Web Server Gateway Interface 
+***WSGI - Web Server Gateway Interface 
 =>GET
-=>POST**
+=>POST***
 
 ### Jinja 2 Template :
 
