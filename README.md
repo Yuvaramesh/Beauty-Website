@@ -1,6 +1,6 @@
 # Beauty Website using Flask Framework
 
-# Flask:
+### Flask:
 
 
 **The Flask is the web framework to develop the web application using python language.
