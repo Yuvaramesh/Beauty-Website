@@ -1,4 +1,4 @@
-### Beauty Website using Flask Framework
+# Beauty Website using Flask Framework
 
 # Flask:
 
