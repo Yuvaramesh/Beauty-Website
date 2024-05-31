@@ -7,7 +7,7 @@
 The flask is working on the two things they are WSGI and Jinja 2 templates**
 
 ***WSGI - Web Server Gateway Interface 
-=>GET
+GET
 =>POST***
 
 ### Jinja 2 Template :
